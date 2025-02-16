@@ -5,7 +5,7 @@
 ## I'm a Front End Developer, Learner!!
 
 - 🌱 I’m currently looking for a stable job
-- 🏗️ **2025 Goals:** English achieved TOEIC over 700, building a platform where everyone can learn (coming soon) 🤣
+- 🏗️ **2025 Goals:** Achieve TOEIC 700+ and building a platform where everyone can learn (coming soon) 🤣
 - ⚡ **Fun fact:** I love to play games / watch sci-fi movies
 
 ### Connect with me:
