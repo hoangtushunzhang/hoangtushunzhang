@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Xuan Quang - aka Shun! 👋
 
-[![Website](https://img.shields.io/badge/portfolio.vercel.app-UP-green)](https://portfolio-shun.vercel.app)
+[![Website](https://img.shields.io/badge/portfolio.vercel.app-UP-green)](https://shunquang.vercel.app)
 
 ## I'm a Developer, Learner!!
 
