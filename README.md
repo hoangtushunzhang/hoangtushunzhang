@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/03bb4d64-cd8b-4b5d-b2fe-7c160fa453f8)# Hi there, I'm Nguyen Xuan Quang - aka Shun! 👋
+# Hi there, I'm Nguyen Xuan Quang - aka Shun! 👋
 
 [![Website](https://img.shields.io/badge/portfolio.vercel.app-UP-green)](https://shunquang.vercel.app)
 
