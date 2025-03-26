@@ -4,7 +4,7 @@
 
 ## I'm a Front End Developer, Learner!!
 
-- 🌱 I’m currently looking for a stable job
+- 🌱 I’m currently learning Motion (animation library for JavaScript, React)
 - 🏗️ **2025 Goals:** Achieve TOEIC 700+ and building a platform where everyone can learn (coming soon) 🤣
 - ⚡ **Fun fact:** I love to play games / watch sci-fi movies
 
