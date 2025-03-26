@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyen Xuan Quang - aka Shun! 👋
+![image](https://github.com/user-attachments/assets/03bb4d64-cd8b-4b5d-b2fe-7c160fa453f8)# Hi there, I'm Nguyen Xuan Quang - aka Shun! 👋
 
 [![Website](https://img.shields.io/badge/portfolio.vercel.app-UP-green)](https://shunquang.vercel.app)
 
@@ -26,4 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px"/>
 </p>
